@@ -1,0 +1,23 @@
+/* Add custom styles for your page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: teal;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+#passwordDisplay {
+    color: white;
+    background-color: lightslategray;
+    border: 2px solid #333;
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 20px;
+}
